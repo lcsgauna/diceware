@@ -1,9 +1,9 @@
 # Diceware
 
 ## Sobre o projeto
-Este é um projeto pessoal, a idéia é criar uma interface que realiza uma geração de passphrases para o usuário conforme a solicitado.
+Este é um projeto pessoal, a idéia é criar uma interface que realiza uma geração de passphrases para o usuário conforme solicitado.
 
-## Fase 1 (Em andamento) 
+## Fase 1 (Concluído) 
 Criar um algoritmo para gerar as passphrases
 
 ## Fase 2
